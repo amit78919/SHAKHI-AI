@@ -1,16 +1,28 @@
-What is GenBiz AI?
-GenBiz AI is a powerful platform that integrates 16 cutting-edge GenAI capabilities to support entrepreneurs throughout their startup journey. Whether you’re just starting out or looking to refine your business strategy, GenBiz AI offers a unique set of tools that empower you to move quickly, efficiently, and intelligently.
+Shakhi AI:¶
+You're not alone—Shakhi (Friend) is with you.
+First, India's ChatGPT for rural women.
+Shakhi AI - Kaggle ,Gen AI Exchange Hackathon 2025 (Project)
+Overview
+Sakhi AI is an offline, voice-first, local-language AI companion designed specifically for rural Indian women. Built using Gemma 3n, it empowers women to share their thoughts, receive empathetic responses, and track their emotional health— all while prioritizing privacy, cultural sensitivity, and offline accessibility.
 
-The platform helps you with the following:
+Problem Statement
+Millions of women in rural India suffer in silence due to emotional neglect, patriarchal restrictions, mental health stigma, and lack of privacy. Smartphones may have reached villages, but AI solutions have not reached their hearts.
 
-Business Plan Generation
+They need someone who doesn't judge, doesn't gossip, and just listens. But in low-connectivity areas, global AI fails.
 
-Market Research and Insights
+Solution - Shakhi AI
+Shakhi AI becomes a "shakhi" (friend) who:
 
-MVP Creation
+Listens in local languages (Hindi & Hinglish)
 
-Continuous AI Co-Founder Support
+Speaks softly, with empathy
 
-Pitch Evaluation
+Works 100% offline on entry-level smartphones
 
-With GenBiz AI, you no longer have to do it all alone. Think of it as your AI-powered partner, helping you navigate the complexities of entrepreneurship.
+Tracks mood/emotions locally
+
+Reminds pregnant women about essential vaccines & nutrition
+
+Stores no cloud data - user remains private
+
+Built with Gemma 3n, it is optimized for private, on-device LLM inference.
